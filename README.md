@@ -18,5 +18,4 @@ I'm **Ramon**, a recent **Computer Science graduate** passionate about **AI, bac
 - 💻 **Experienced with Python, Java, and JavaScript**  
 
 ## 📫 **Get in Touch**  
-- **GitHub**: [@itsrarias](https://github.com/itsrarias)  
 - **LinkedIn**: [Ramon Arias](https://www.linkedin.com/in/arias-ramon/)  
