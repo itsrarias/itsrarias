@@ -1,6 +1,7 @@
 Hi there 👋
 
 I'm Ramon, a recent Computer Science graduate passionate about AI, backend development, and mobile applications. Right now, I'm working on personal projects while exploring opportunities to contribute to innovative and impactful tech solutions.
+
 🚀 What I'm Working On
 
 - Building an AI-based product from scratch using Python and FastAPI
