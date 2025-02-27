@@ -1,11 +1,11 @@
 Hi there 👋
 
-I'm Ramon, a recent Computer Science graduate passionate about AI, backend development, and mobile applications. Right now, I'm working on personal projects while exploring opportunities to contribute to innovative and impactful tech solutions.
+I'm Ramon, a recent Computer Science graduate passionate about AI, backend development, and mobile applications. 
 
 🚀 What I'm Working On
 
-- Building an AI-based product from scratch using Python and FastAPI
-- Integrating AI APIs like OpenAI into backend systems, as well as my own trained models
+- Building AI-based products from scratch using Python and FastAPI
+- Integrating APIs like OpenAI into backend systems, as well as my own trained models
 - Experimenting with Android development (Kotlin, Flutter) & React
 - Refining my AI-assisted development workflows
 
@@ -17,9 +17,8 @@ I'm Ramon, a recent Computer Science graduate passionate about AI, backend devel
 
 💡 More About Me
 
-🎓 Graduated with a B.S. in Computer Science
-💻 Experienced with Python, Java, and JavaScript
-🔥 Passionate about AI, automation, and full-stack development
+- 🎓 Graduated with a B.S. in Computer Science
+- 💻 Experienced with Python, Java, and JavaScript
 
 📫 Get in Touch
 
