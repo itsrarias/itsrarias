@@ -1,11 +1,10 @@
 # **Hi there!** 👋  
 
-I'm **Ramon**, a recent **Computer Science graduate** passionate about **AI, backend development, and mobile applications**. 
+I'm **Ramon**, a **Software Engineer** passionate about **AI, ML, and backend development**. 
 
 ## 🚀 **What I'm Working On**  
-- **Building an AI-based product** from scratch using **Python and FastAPI**  
+- **Building my own AI-based product**, check out Saifly on LinkedIn.  
 - **Integrating AI APIs** like OpenAI into backend systems, as well as my own trained models  
-- **Experimenting with Android development** (Kotlin, Flutter) & React  
 - **Refining AI-assisted development workflows**  
 
 ## 🔍 **What I'm Exploring**  
@@ -15,7 +14,8 @@ I'm **Ramon**, a recent **Computer Science graduate** passionate about **AI, bac
 
 ## 💡 **More About Me**  
 - 🎓 **Graduated with a B.S. in Computer Science**  
-- 💻 **Experienced with Python, Java, and JavaScript**  
+- 💻 **Experienced with Python, Java, and TypeScript**  
 
 ## 📫 **Get in Touch**  
+- **Saifly**: [My company](https://www.linkedin.com/company/saifly/)  
 - **LinkedIn**: [Ramon Arias](https://www.linkedin.com/in/arias-ramon/)  
