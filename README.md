@@ -8,11 +8,10 @@
 
 I joined a company as its first engineer and ended up owning the whole stack: the product, the infrastructure it runs on, the security around it, and now the AI layer on top of it. Nobody handed me a system to maintain. I built the one that didn't exist.
 
-- 🔭 Currently building a production **MCP server** connecting Claude Enterprise to internal systems — passwordless auth, 95-test release gate, external security audit closed out
-- 🛠️ Running production infra end to end: CI/CD, systemd, secrets management, observability — solo
+- 🔭 Currently building a production **MCP server** connecting Claude Enterprise to internal systems: passwordless auth, 95-test release gate, external security audit closed out
+- 🛠️ Running production infra end to end: CI/CD, systemd, secrets management, observability
 - 🌱 Background in applied ML (PyTorch, computer vision) before I went full-stack
 - 💬 Ask me about RBAC, workload identity federation, or why your bash retry loop needs a wall-clock budget
-- ⚡ Fun fact: settled for less than I asked for once because I had no track record. Not doing that twice.
 
 ---
 
@@ -46,7 +45,7 @@ External security audit: every finding independently re-verified against source,
 **🏗️ Internal CRM + Investor Portal**
 Built from an empty repo as the sole engineer.
 Now the operational system of record, live to external investors.
-Full production ownership: nginx, systemd, CI/CD with atomic zero-downtime deploys and auto-rollback, Prometheus/Loki/Grafana observability.
+Full production ownership: nginx, systemd, CI/CD with atomic zero-downtime deploys and auto-rollback, observability.
 RBAC + row-level security, three independently verified audits.
 
 </td>
