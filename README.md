@@ -41,9 +41,6 @@ Built from an empty repo as the sole engineer. Now the operational system of rec
 
 <div align="center">
 <img height="165em" src="https://rarias-readme-stats.vercel.app/api?username=itsrarias&show_icons=true&hide=stars,issues&hide_rank=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://rarias-readme-stats.vercel.app/api/top-langs/?username=itsrarias&layout=compact&theme=tokyonight&hide_border=true" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrarias&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
